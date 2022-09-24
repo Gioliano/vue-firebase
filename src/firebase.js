@@ -1,6 +1,7 @@
 import firebase from "firebase/app";
 import "firebase/database";
 
+// modificar de acordo com firebase
 let  firebaseConfig = {
   apiKey: "AIzaSyDh9p9LxBNW8GaE9n-RNZInJqf4JiAjgGc",
   authDomain: "infnet-firebase.firebaseapp.com",
